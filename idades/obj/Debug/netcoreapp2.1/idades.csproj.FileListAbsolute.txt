@@ -1,0 +1,52 @@
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\Nova pasta\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\CURSO EXOMPLO\csharp\idades\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache
+C:\Users\1\Desktop\Marks\idadesMedia\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\1\Desktop\Marks\idadesMedia\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\1\Desktop\Marks\idadesMedia\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\1\Desktop\Marks\idadesMedia\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\idadesMedia\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\idadesMedia\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\bin\Debug\netcoreapp2.1\idades.deps.json
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.json
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\bin\Debug\netcoreapp2.1\idades.runtimeconfig.dev.json
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\bin\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\bin\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.AssemblyInfo.cs
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.dll
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.pdb
+C:\Users\1\Desktop\Marks\Idade junior (testehelder)\idades\obj\Debug\netcoreapp2.1\idades.genruntimeconfig.cache
